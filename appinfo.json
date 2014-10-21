@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Edwin Finch",
+    "longName": "Simple Analog Plus",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/batt_charging.png",
+                "name": "BATT_CHARGE",
+                "type": "png"
+            },
+            {
+                "file": "images/bticon.png",
+                "name": "BT",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_icon.png",
+                "name": "BATT_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/2014-10-06 18_58_18-Home _ My Pebble Faces.png",
+                "name": "PEBBLE_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Simple Analog+",
+    "uuid": "7c58b43c-718e-41db-baf9-381c6c59a8a8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
